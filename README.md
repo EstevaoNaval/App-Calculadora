@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora básica.
 
-**Pré-visualização:** https://bit.ly/36gngC1
+**Pré-visualização:** https://bit.ly/2GQGLbA
 
 **Tier:** 1-Iniciante
 
