@@ -1,5 +1,5 @@
 # Calculadora
-Calculadora básica.
+Calculadora básica baseada em uma das ideias do repositório app-ideas de Florin Pop.
 
 **Pré-visualização:** https://bit.ly/2GQGLbA
 
